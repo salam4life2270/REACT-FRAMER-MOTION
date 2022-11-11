@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-FRAMER-MOTION/static/css/main.964fdded.css",
+    "main.js": "/REACT-FRAMER-MOTION/static/js/main.b419d3ba.js",
+    "static/js/787.d3befce1.chunk.js": "/REACT-FRAMER-MOTION/static/js/787.d3befce1.chunk.js",
+    "index.html": "/REACT-FRAMER-MOTION/index.html",
+    "main.964fdded.css.map": "/REACT-FRAMER-MOTION/static/css/main.964fdded.css.map",
+    "main.b419d3ba.js.map": "/REACT-FRAMER-MOTION/static/js/main.b419d3ba.js.map",
+    "787.d3befce1.chunk.js.map": "/REACT-FRAMER-MOTION/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.b419d3ba.js"
+  ]
+}
